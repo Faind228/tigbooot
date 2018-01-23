@@ -1,0 +1,31 @@
+{
+  "name": "bitbot",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "bot.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "dateformat": "^3.0.2",
+    "discord.js": "^11.0.0",
+    "google": "^2.1.0",
+    "got": "^8.0.3",
+    "humanize-duration": "^3.12.1",
+    "mojang-api": "0.0.2",
+    "moment": "^2.20.1",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitBangersCode/BitBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BitBangersCode/BitBot/issues"
+  },
+  "homepage": "https://github.com/BitBangersCode/BitBot#readme"
+}
