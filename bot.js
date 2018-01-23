@@ -55,4 +55,4 @@ client.on('error', e => {
   console.log(e);
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.TOKEN);
